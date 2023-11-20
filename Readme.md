@@ -1,6 +1,6 @@
 # Muh Asyraf Rizqullah's Portfolio
 
-This is the source code for Muh Asyraf Rizqullah's portfolio website, showcasing his skills, projects, and information.
+🚀 Welcome to my portfolio website! This repository contains the source code for my personal portfolio, where I showcase my skills, projects, and journey in the world of technology.
 
 ## Table of Contents
 
@@ -14,44 +14,54 @@ This is the source code for Muh Asyraf Rizqullah's portfolio website, showcasing
 
 ## About
 
-The "About" section provides an introduction to Muh Asyraf Rizqullah, including a brief description and personal details.
+The "About" section introduces who I am, providing insights into my passion for technology and problem-solving.
+
+![About Section](images/about.png)
 
 ## Resume
 
-The "Resume" section outlines Muh Asyraf Rizqullah's educational background and employment history, highlighting key experiences and projects.
+Explore my educational background and professional experiences in the "Resume" section. Dive into key projects and accomplishments that define my journey.
+
+![Resume Section](images/resume.png)
 
 ## Skills
 
-The "Skills" section showcases Muh Asyraf Rizqullah's professional skills and languages proficiency.
+Discover the technologies and tools I specialize in within the "Skills" section. From programming languages to development frameworks, here's the tech stack I bring to the table.
+
+![Skills Section](images/skills.png)
 
 ## Portfolio
 
-The "Portfolio" section displays a collection of projects, including images, project names, and links to additional details.
+Dive into my project showcase in the "Portfolio" section. Each project is a story, accompanied by images, details, and links for further exploration.
+
+![Portfolio Section](images/portfolio.png)
 
 ## Services
 
-The "Services" section outlines the services offered by Muh Asyraf Rizqullah, including front-end and back-end development, database management, performance optimization, and technology consultation.
+Learn about the services I offer, including front-end and back-end development, database management, performance optimization, and technology consultation.
+
+![Services Section](images/services.png)
 
 ## Contact
 
-The "Contact" section provides Muh Asyraf Rizqullah's contact information, including location, email, and a link to contact via WhatsApp.
+Ready to start a conversation? Find my contact information in the "Contact" section. Whether it's via email or WhatsApp, I'm just a message away.
+
+![Contact Section](images/contact.png)
 
 ## Footer
 
 The "Footer" section includes copyright information and credits for the design.
 
+![Footer Section](images/footer.png)
+
 ## Usage
 
-To view the portfolio, open the `index.html` file in a web browser.
+To experience my portfolio, open the `index.html` file in your preferred web browser.
 
 ## Credits
 
-- Designed by [Muh Asyraf Rizqullah](https://api.whatsapp.com/send?phone=6282296420613)
+- Designed with ❤️ by [Muh Asyraf Rizqullah](https://api.whatsapp.com/send?phone=6282296420613)
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Note:** This README is a basic template and can be expanded or modified according to specific needs.
