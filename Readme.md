@@ -22,7 +22,7 @@ Get to know me better! I'm passionate about turning ideas into reality through t
 
 Explore my educational and professional background. Each entry is a chapter in my exciting journey.
 
-![Resume Section](https://asyrafrizqullah01.github.io/Portofolio/assets/img/portfolio/2.jpg)
+(https://asyrafrizqullah01.github.io/Portofolio/assets/img/portfolio/2.jpg)
 
 ## Skills
 
