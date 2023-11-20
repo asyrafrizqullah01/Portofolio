@@ -16,7 +16,7 @@
 
 The "About" section introduces who I am, providing insights into my passion for technology and problem-solving.
 
-![About Section](assets/images/Asyraf2.jpg)
+![About Section](assets/img/portofolio/Asyraf2.jpg)
 
 ## Resume
 
