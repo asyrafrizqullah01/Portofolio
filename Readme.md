@@ -16,25 +16,25 @@
 
 Get to know me better! I'm passionate about turning ideas into reality through technology.
 
-![About Section](https://via.placeholder.com/1200x600/3498db/ffffff?text=About+Section)
+![About Section](https://asyrafrizqullah01.github.io/Portofolio/assets/img/portfolio/Personal%20Web.jpg)
 
 ## Resume
 
 Explore my educational and professional background. Each entry is a chapter in my exciting journey.
 
-![Resume Section](https://via.placeholder.com/1200x600/2ecc71/ffffff?text=Resume+Section)
+![Resume Section](https://asyrafrizqullah01.github.io/Portofolio/assets/img/portfolio/2.jpg)
 
 ## Skills
 
 Discover the powerful tools and technologies in my skill set. Here's the tech stack that fuels my projects.
 
-![Skills Section](https://via.placeholder.com/1200x600/e74c3c/ffffff?text=Skills+Section)
+![Skills Section](https://asyrafrizqullah01.github.io/Portofolio/assets/img/portfolio/mamujuvapor.png)
 
 ## Portfolio
 
 Embark on a visual journey through my projects. Each project tells a story of challenges, creativity, and success.
 
-![Portfolio Section](https://via.placeholder.com/1200x600/f39c12/ffffff?text=Portfolio+Section)
+![Portfolio Section](https://asyrafrizqullah01.github.io/Portofolio/assets/img/portfolio/Booking%202.jpg)
 
 ## Services
 
